@@ -20,11 +20,7 @@
   <link rel="stylesheet" href="assets/theme/css/style.css">
   <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
   
-
-  <?php $IPATH = $_SERVER["DOCUMENT_ROOT"]."/assets/php"; include(IPATH."header.html"); ?>
   
-
-
   
 </head>
 <body>
@@ -44,25 +40,25 @@
         <div class="menu-logo">
             <div class="navbar-brand">
                 <span class="navbar-logo">
-                    <a href="index.html">
+                    <a href="index.php">
                          <img src="assets/images/untitled-3.png" alt="Mobirise" title="" style="height: 3.8rem;">
                     </a>
                 </span>
-                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="index.html">BIBBO Research Group</a></span>
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="index.php">BIBBO Research Group</a></span>
             </div>
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item dropdown"><a class="nav-link link dropdown-toggle text-white display-4" href="index.html#services3-3" data-toggle="dropdown-submenu" aria-expanded="false">
-                        Courses</a><div class="dropdown-menu"><div class="dropdown"><a class="dropdown-item dropdown-toggle text-white display-4" href="index.html#services3-3" data-toggle="dropdown-submenu" aria-expanded="false">Basic Engineering Mathematics</a><div class="dropdown-menu dropdown-submenu"><a class="dropdown-item text-white display-4" href="Basic-Engineering-Mathematics.html">Algebra</a><a class="dropdown-item text-white display-4" href="index.html#services3-3">Advanced Algebra</a><a class="dropdown-item text-white display-4" href="index.html#testimonials1-6">Trigonometry</a><a class="dropdown-item text-white display-4" href="index.html#services3-3">Analytic Geometry</a><a class="dropdown-item text-white display-4" href="index.html#services3-3">Solid Mensuration</a></div></div><div class="dropdown"><a class="dropdown-item text-white dropdown-toggle display-4" href="index.html#services3-3" data-toggle="dropdown-submenu" aria-expanded="false">Calculus<br></a><div class="dropdown-menu dropdown-submenu"><a class="dropdown-item text-white display-4" href="index.html#services3-3">Differential Calculus</a><a class="dropdown-item text-white display-4" href="index.html#services3-3" aria-expanded="true">Integral Calculus</a><a class="dropdown-item text-white display-4" href="index.html#services3-3" aria-expanded="true">Differential Equations</a><a class="dropdown-item text-white display-4" href="index.html#services3-3" aria-expanded="true">Advanced Mathematics</a></div></div><a class="dropdown-item text-white display-4" href="index.html#services3-3">Engineering Science<br></a><a class="dropdown-item text-white display-4" href="index.html#services3-3">Physics<br></a></div></li><li class="nav-item">
-                    <a class="nav-link link text-white display-4" href="index.html#testimonials1-6">Meet Our Team<br></a>
-                </li><li class="nav-item"><a class="nav-link link text-white display-4" href="Contact-Us.html">Contact Us
+            <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item dropdown"><a class="nav-link link dropdown-toggle text-white display-4" href="index.php#services3-3" data-toggle="dropdown-submenu" aria-expanded="false">
+                        Courses</a><div class="dropdown-menu"><div class="dropdown"><a class="dropdown-item dropdown-toggle text-white display-4" href="index.php#services3-3" data-toggle="dropdown-submenu" aria-expanded="false">Basic Engineering Mathematics</a><div class="dropdown-menu dropdown-submenu"><a class="dropdown-item text-white display-4" href="sub-Algebra.php">Algebra</a><a class="dropdown-item text-white display-4" href="index.php#services3-3">Advanced Algebra</a><a class="dropdown-item text-white display-4" href="index.php#testimonials1-6">Trigonometry</a><a class="dropdown-item text-white display-4" href="index.php#services3-3">Analytic Geometry</a><a class="dropdown-item text-white display-4" href="index.php#services3-3">Solid Mensuration</a></div></div><div class="dropdown"><a class="dropdown-item text-white dropdown-toggle display-4" href="index.php#services3-3" data-toggle="dropdown-submenu" aria-expanded="false">Calculus<br></a><div class="dropdown-menu dropdown-submenu"><a class="dropdown-item text-white display-4" href="index.php#services3-3">Differential Calculus</a><a class="dropdown-item text-white display-4" href="index.php#services3-3" aria-expanded="true">Integral Calculus</a><a class="dropdown-item text-white display-4" href="index.php#services3-3" aria-expanded="true">Differential Equations</a><a class="dropdown-item text-white display-4" href="index.php#services3-3" aria-expanded="true">Advanced Mathematics</a></div></div><a class="dropdown-item text-white display-4" href="index.php#services3-3">Engineering Science<br></a><a class="dropdown-item text-white display-4" href="index.php#services3-3">Physics<br></a><a class="dropdown-item text-white display-4" href="index.php#services3-3">All Courses<br></a></div></li><li class="nav-item">
+                    <a class="nav-link link text-white display-4" href="index.php#testimonials1-6">Meet Our Team<br></a>
+                </li><li class="nav-item"><a class="nav-link link text-white display-4" href="Contact-Us.php">Contact Us
                     </a></li></ul>
             
         </div>
     </nav>
 </section>
 
-<section class="engine"><a href="https://mobirise.info/s">bootstrap themes</a></section><section class="step1 cid-rYcjAKeR7F" id="step1-1d">
+<section class="engine"><a href="https://mobirise.info/m">free site design templates</a></section><section class="step1 cid-rYcjAKeR7F" id="step1-1d">
 
     
 
@@ -83,7 +79,7 @@
                     <div class="step-text-content">
                         <h4 class="mbr-step-title pb-3 mbr-fonts-style display-5">Real Numbers</h4>
                         <p class="mbr-step-text mbr-fonts-style display-7">
-                            <a href="Basic-Engineering-Mathematics.html">Numerals</a> | Classefication of Numbers | Factors and Multiples | Number Line | Absolute Value</p>
+                            <a href="pages/algebra/Basic-Engineering-Mathematics.php">Numerals</a> | Classefication of Numbers | Factors and Multiples | Number Line | Absolute Value</p>
                     </div>
                 </div>
             </div>
@@ -198,6 +194,23 @@
                     </div>
                 </div>
             </div>
+
+            <div class="card separline pb-4">
+                <div class="step-element d-flex">
+                    <div class="step-wrapper pr-3">
+                        <h3 class="step d-flex align-items-center justify-content-center">
+                            8
+                        </h3>
+                    </div>          
+                    <div class="step-text-content">
+                        <h4 class="mbr-step-title pb-3 mbr-fonts-style display-5">
+                            Rational Expressions</h4>
+                        <p class="mbr-step-text mbr-fonts-style display-7">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.
+                        </p>
+                    </div>
+                </div>
+            </div>
             
             <div class="card">
                 <div class="step-element d-flex">
@@ -218,6 +231,7 @@
         </div>
     </div>
 </section>
+
 
 <section once="footers" class="cid-rY3ux7smxv" id="footer6-1b">
 

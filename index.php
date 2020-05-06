@@ -1,28 +1,28 @@
 <!DOCTYPE html>
 <html  >
-<head>
-  <!-- Site made with Mobirise Website Builder v4.12.3, https://mobirise.com -->
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Mobirise v4.12.3, mobirise.com">
-  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-  <link rel="shortcut icon" href="assets/images/untitled-3.png" type="image/x-icon">
-  <meta name="description" content="">
-  
-  
-  <title>Home</title>
-  <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
-  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
-  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
-  <link rel="stylesheet" href="assets/tether/tether.min.css">
-  <link rel="stylesheet" href="assets/dropdown/css/style.css">
-  <link rel="stylesheet" href="assets/theme/css/style.css">
-  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
-  
-  
-  
-</head>
+    <head>
+        <!-- Site made with Mobirise Website Builder v4.12.3, https://mobirise.com -->
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="generator" content="Mobirise v4.12.3, mobirise.com">
+        <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+        <link rel="shortcut icon" href="assets/images/untitled-3.png" type="image/x-icon">
+        <meta name="description" content="">
+        
+        
+        <title>Home</title>
+        <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
+        <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+        <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+        <link rel="stylesheet" href="assets/tether/tether.min.css">
+        <link rel="stylesheet" href="assets/dropdown/css/style.css">
+        <link rel="stylesheet" href="assets/theme/css/style.css">
+        <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+         
+      </head>
+      
+
 <body>
   <section class="menu cid-rY414x3gx3" once="menu" id="menu1-n">
 
@@ -40,18 +40,18 @@
         <div class="menu-logo">
             <div class="navbar-brand">
                 <span class="navbar-logo">
-                    <a href="index.html">
+                    <a href="index.php">
                          <img src="assets/images/untitled-3.png" alt="Mobirise" title="" style="height: 3.8rem;">
                     </a>
                 </span>
-                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="index.html">BIBBO Research Group</a></span>
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="index.php">BIBBO Research Group</a></span>
             </div>
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item dropdown"><a class="nav-link link dropdown-toggle text-white display-4" href="index.html#services3-3" data-toggle="dropdown-submenu" aria-expanded="false">
-                        Courses</a><div class="dropdown-menu"><div class="dropdown"><a class="dropdown-item dropdown-toggle text-white display-4" href="index.html#services3-3" data-toggle="dropdown-submenu" aria-expanded="false">Basic Engineering Mathematics</a><div class="dropdown-menu dropdown-submenu"><a class="dropdown-item text-white display-4" href="sub-Algebra.html">Algebra</a><a class="dropdown-item text-white display-4" href="index.html#services3-3">Advanced Algebra</a><a class="dropdown-item text-white display-4" href="index.html#testimonials1-6">Trigonometry</a><a class="dropdown-item text-white display-4" href="index.html#services3-3">Analytic Geometry</a><a class="dropdown-item text-white display-4" href="index.html#services3-3">Solid Mensuration</a></div></div><div class="dropdown"><a class="dropdown-item text-white dropdown-toggle display-4" href="index.html#services3-3" data-toggle="dropdown-submenu" aria-expanded="false">Calculus<br></a><div class="dropdown-menu dropdown-submenu"><a class="dropdown-item text-white display-4" href="index.html#services3-3">Differential Calculus</a><a class="dropdown-item text-white display-4" href="index.html#services3-3" aria-expanded="true">Integral Calculus</a><a class="dropdown-item text-white display-4" href="index.html#services3-3" aria-expanded="true">Differential Equations</a><a class="dropdown-item text-white display-4" href="index.html#services3-3" aria-expanded="true">Advanced Mathematics</a></div></div><a class="dropdown-item text-white display-4" href="index.html#services3-3">Engineering Science<br></a><a class="dropdown-item text-white display-4" href="index.html#services3-3">Physics<br></a><a class="dropdown-item text-white display-4" href="index.html#services3-3">All Courses<br></a></div></li><li class="nav-item">
-                    <a class="nav-link link text-white display-4" href="index.html#testimonials1-6">Meet Our Team<br></a>
-                </li><li class="nav-item"><a class="nav-link link text-white display-4" href="Contact-Us.html">Contact Us
+            <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item dropdown"><a class="nav-link link dropdown-toggle text-white display-4" href="index.php#services3-3" data-toggle="dropdown-submenu" aria-expanded="false">
+                        Courses</a><div class="dropdown-menu"><div class="dropdown"><a class="dropdown-item dropdown-toggle text-white display-4" href="index.php#services3-3" data-toggle="dropdown-submenu" aria-expanded="false">Basic Engineering Mathematics</a><div class="dropdown-menu dropdown-submenu"><a class="dropdown-item text-white display-4" href="sub-Algebra.php">Algebra</a><a class="dropdown-item text-white display-4" href="index.php#services3-3">Advanced Algebra</a><a class="dropdown-item text-white display-4" href="index.php#testimonials1-6">Trigonometry</a><a class="dropdown-item text-white display-4" href="index.php#services3-3">Analytic Geometry</a><a class="dropdown-item text-white display-4" href="index.php#services3-3">Solid Mensuration</a></div></div><div class="dropdown"><a class="dropdown-item text-white dropdown-toggle display-4" href="index.php#services3-3" data-toggle="dropdown-submenu" aria-expanded="false">Calculus<br></a><div class="dropdown-menu dropdown-submenu"><a class="dropdown-item text-white display-4" href="index.php#services3-3">Differential Calculus</a><a class="dropdown-item text-white display-4" href="index.php#services3-3" aria-expanded="true">Integral Calculus</a><a class="dropdown-item text-white display-4" href="index.php#services3-3" aria-expanded="true">Differential Equations</a><a class="dropdown-item text-white display-4" href="index.php#services3-3" aria-expanded="true">Advanced Mathematics</a></div></div><a class="dropdown-item text-white display-4" href="index.php#services3-3">Engineering Science<br></a><a class="dropdown-item text-white display-4" href="index.php#services3-3">Physics<br></a><a class="dropdown-item text-white display-4" href="index.php#services3-3">All Courses<br></a></div></li><li class="nav-item">
+                    <a class="nav-link link text-white display-4" href="index.php#testimonials1-6">Meet Our Team<br></a>
+                </li><li class="nav-item"><a class="nav-link link text-white display-4" href="Contact-Us.php">Contact Us
                     </a></li></ul>
             
         </div>
@@ -72,8 +72,8 @@
             
             <p class="mbr-text pb-3 mbr-fonts-style display-5">
                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae.</p>
-            <div class="mbr-section-btn"><a class="btn btn-md btn-primary display-4" href="index.html#services3-3">COURSES</a>
-                <a class="btn btn-md btn-white-outline display-4" href="Contact-Us.html">CONTACT US</a></div>
+            <div class="mbr-section-btn"><a class="btn btn-md btn-primary display-4" href="index.php#services3-3">COURSES</a>
+                <a class="btn btn-md btn-white-outline display-4" href="Contact-Us.php">CONTACT US</a></div>
         </div>
     </div>
 
@@ -108,7 +108,7 @@
                             <p class="mbr-text card-title cost mbr-fonts-style m-0 display-5"></p>
                         </div>
                         <div class="bottom-line">
-                            <p class="mbr-text mbr-fonts-style display-7"><a href="sub-Algebra.html">Algebra</a> | Advanced Algebra | Trigonometry | Analytic Geometry | Solid Mensuration</p>
+                            <p class="mbr-text mbr-fonts-style display-7"><a href="sub-Algebra.php">Algebra</a> | Advanced Algebra | Trigonometry | Analytic Geometry | Solid Mensuration</p>
                         </div>
                     </div>
                 </div>
@@ -155,7 +155,7 @@
                         <div class="bottom-line">
                             <p class="mbr-text mbr-fonts-style display-7">
                                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus, odit?
-                            </p>
+                              </p>
                         </div>
                     </div>
                 </div>

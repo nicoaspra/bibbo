@@ -1,66 +1,17 @@
 <!DOCTYPE html>
 <html  >
-<head>
-  <!-- Site made with Mobirise Website Builder v4.12.3, https://mobirise.com -->
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Mobirise v4.12.3, mobirise.com">
-  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-  <link rel="shortcut icon" href="assets/images/untitled-3.png" type="image/x-icon">
-  <meta name="description" content="Web Maker Description">
-  
-  
-  <title>Basic Engineering Mathematics</title>
-  <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
-  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
-  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
-  <link rel="stylesheet" href="assets/tether/tether.min.css">
-  <link rel="stylesheet" href="assets/dropdown/css/style.css">
-  <link rel="stylesheet" href="assets/datatables/data-tables.bootstrap4.min.css">
-  <link rel="stylesheet" href="assets/theme/css/style.css">
-  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+<title>Basic Engineering Mathematics</title>
+
+<?php echo file_get_contents("../../assets/php/headerpages.html"); ?>
 
 
-  
 
 
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
-</script>
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript">
-</script>
-  
-    $
-    \newcommand\ds[1]{\displaystyle{#1}}
-    $
-
-    <style>
-        p{
-            text-align: justify;
-            text-justify: inter-word;
-        }
-        blockquote{
-            text-align: justify;
-            text-justify: inter-word;
-        }
-        li{
-            text-align: justify;
-            text-justify: inter-word;
-        }
-    </style>
 
 
-<!--#include file="footer_text.html" -->
-<?php include("header.html"); ?>
-
-
-  
-
-</head>
 <body>
-
-<section class="engine"><a href="https://mobirise.info/f">easy website builder</a></section><section class="mbr-section content4 cid-rY3xrUhGrc" id="content4-c">
+  
+<section class="engine"><a href="https://mobirise.info/b">create a site</a></section><section class="mbr-section content4 cid-rY3xrUhGrc" id="content4-c">
 
     
 
@@ -84,9 +35,10 @@
     <div class="container">
         <div class="media-container-row">
             <div class="mbr-text col-12 mbr-fonts-style display-7 col-md-8"><p>
-                <strong>Lorem ipsum dolor</strong> sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu&nbsp;<a href="Basic-Engineering-Mathematics.html">Lorem ipsum</a> dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.$2x^5$ 
-
-                <br/><br/>
+                
+            <strong>Lorem ipsum dolor</strong> sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu&nbsp;<a href="Basic-Engineering-Mathematics.php">Lorem ipsum</a> dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu. $\ds{\int_a^b (2x^2+5x) \,dx}$
+            
+            <br/><br/>
 
                 \begin{align}
                 \int_a^b (2x^2+5x) \,dx &= \frac{2x^{2+1}}{2+1}+\frac{5x^{1+1}}{1+1}+C \\
@@ -122,13 +74,11 @@
             <div class="col-12 col-md-8">
                 <div class="media-container-row">
                     <div class="mbr-figure" style="width: 90%;">
-                      <img src="assets/images/a1.jpg" alt="Mobirise" title="">  
+                      <img src="../../assets/images/a1.jpg" alt="Mobirise" title="">  
                     </div>
                     <div class="media-content">
                         <div class="mbr-section-text">
-                            <div class="mbr-text mb-0 mbr-fonts-style display-7"><p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu Lorem ipsum
-                            </p></div>
+                            <p class="mbr-text mb-0 mbr-fonts-style display-7">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu Lorem ipsum</p>
                         </div>
                     </div>
                 </div>
@@ -146,13 +96,11 @@
             <div class="col-12 col-md-8">
                 <div class="media-container-row">
                     <div class="mbr-figure" style="width: 90%;">
-                      <img src="assets/images/a2.jpg" alt="Mobirise" title="">  
+                      <img src="../../assets/images/a2.jpg" alt="Mobirise" title="">  
                     </div>
                     <div class="media-content">
                         <div class="mbr-section-text">
-                            <div class="mbr-text mb-0 mbr-fonts-style display-7"><p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu Lorem ipsum
-                            </p></div>
+                            <p class="mbr-text mb-0 mbr-fonts-style display-7">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu Lorem ipsum</p>
                         </div>
                     </div>
                 </div>
@@ -232,7 +180,7 @@
     <div class="container images-container">
             <div class="media-container-row" style="width: 66%;">
                 <div class="img-item item1" style="width: 88%;">
-                    <img src="assets/images/a1.jpg" alt="" title="">
+                    <img src="../../assets/images/a1.jpg" alt="" title="">
                     <div class="img-caption">
                         <p class="mbr-fonts-style align-center mbr-black display-7">
                             Responsive
@@ -240,7 +188,7 @@
                     </div>
                 </div>
                 <div class="img-item">
-                    <img src="assets/images/a2.jpg" alt="" title="">
+                    <img src="../../assets/images/a2.jpg" alt="" title="">
                     <div class="img-caption">
                         <p class="mbr-fonts-style align-center mbr-black display-7">
                             Mobile friendly
@@ -251,14 +199,16 @@
     </div>
 </section>
 
-<section class="cid-rY85yQ7lkf" id="video3-16"> 
+<section class="cid-rY85yQ7lkf" id="video3-16">
+
+    
+    
     <figure class="mbr-figure align-center container">
         <div class="video-block" style="width: 63%;">
             <div><iframe class="mbr-embedded-video" src="https://www.youtube.com/embed/__Uw1SXPW7s?rel=0&amp;amp;showinfo=0&amp;autoplay=0&amp;loop=0" width="1280" height="720" frameborder="0" allowfullscreen></iframe></div>
         </div>
     </figure>
 </section>
-
 
 <section class="mbr-section article content14 cid-rY6Bia8ATT" id="content14-w">
       
@@ -291,7 +241,7 @@
         <div class="col-md-12">
             <div class="media-container-row">
                 <div class="mbr-figure m-auto" style="width: 50%;">
-                    <img src="assets/images/background9.jpg" alt="Mobirise" title="">
+                    <img src="../../assets/images/background9.jpg" alt="Mobirise" title="">
                 </div>
                 <div class=" align-left aside-content">
                     <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
@@ -400,39 +350,13 @@
     </div>
 </section>
 
-<section once="footers" class="cid-rY3ux7smxv" id="footer6-9">
-
-    
-
-    
-
-    <div class="container">
-        <div class="media-container-row align-center mbr-white">
-            <div class="col-12">
-                <p class="mbr-text mb-0 mbr-fonts-style display-7">
-                    © Copyright 2020 BIBBO - All Rights Reserved
-                </p>
-            </div>
-        </div>
-    </div>
-</section>
 
 
-  <script src="assets/web/assets/jquery/jquery.min.js"></script>
-  <script src="assets/popper/popper.min.js"></script>
-  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
-  <script src="assets/tether/tether.min.js"></script>
-  <script src="assets/smoothscroll/smooth-scroll.js"></script>
-  <script src="assets/dropdown/js/nav-dropdown.js"></script>
-  <script src="assets/dropdown/js/navbar-dropdown.js"></script>
-  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
-  <script src="assets/datatables/jquery.data-tables.min.js"></script>
-  <script src="assets/datatables/data-tables.bootstrap4.min.js"></script>
-  <script src="assets/theme/js/script.js"></script>
+
+
+
+
   
-  
+<?php echo file_get_contents("../../assets/php/footerpages.html"); ?>  
 </body>
 </html>
-
-
-

@@ -40,25 +40,25 @@
         <div class="menu-logo">
             <div class="navbar-brand">
                 <span class="navbar-logo">
-                    <a href="index.html">
+                    <a href="index.php">
                          <img src="assets/images/untitled-3.png" alt="Mobirise" title="" style="height: 3.8rem;">
                     </a>
                 </span>
-                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="index.html">BIBBO Research Group</a></span>
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="index.php">BIBBO Research Group</a></span>
             </div>
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item dropdown"><a class="nav-link link dropdown-toggle text-white display-4" href="index.html#services3-3" data-toggle="dropdown-submenu" aria-expanded="false">
-                        Courses</a><div class="dropdown-menu"><div class="dropdown"><a class="dropdown-item dropdown-toggle text-white display-4" href="index.html#services3-3" data-toggle="dropdown-submenu" aria-expanded="false">Basic Engineering Mathematics</a><div class="dropdown-menu dropdown-submenu"><a class="dropdown-item text-white display-4" href="Basic-Engineering-Mathematics.html">Algebra</a><a class="dropdown-item text-white display-4" href="index.html#services3-3">Advanced Algebra</a><a class="dropdown-item text-white display-4" href="index.html#testimonials1-6">Trigonometry</a><a class="dropdown-item text-white display-4" href="index.html#services3-3">Analytic Geometry</a><a class="dropdown-item text-white display-4" href="index.html#services3-3">Solid Mensuration</a></div></div><div class="dropdown"><a class="dropdown-item text-white dropdown-toggle display-4" href="index.html#services3-3" data-toggle="dropdown-submenu" aria-expanded="false">Calculus<br></a><div class="dropdown-menu dropdown-submenu"><a class="dropdown-item text-white display-4" href="index.html#services3-3">Differential Calculus</a><a class="dropdown-item text-white display-4" href="index.html#services3-3" aria-expanded="true">Integral Calculus</a><a class="dropdown-item text-white display-4" href="index.html#services3-3" aria-expanded="true">Differential Equations</a><a class="dropdown-item text-white display-4" href="index.html#services3-3" aria-expanded="true">Advanced Mathematics</a></div></div><a class="dropdown-item text-white display-4" href="index.html#services3-3">Engineering Science<br></a><a class="dropdown-item text-white display-4" href="index.html#services3-3">Physics<br></a></div></li><li class="nav-item">
-                    <a class="nav-link link text-white display-4" href="index.html#testimonials1-6">Meet Our Team<br></a>
-                </li><li class="nav-item"><a class="nav-link link text-white display-4" href="Contact-Us.html">Contact Us
+            <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item dropdown"><a class="nav-link link dropdown-toggle text-white display-4" href="index.php#services3-3" data-toggle="dropdown-submenu" aria-expanded="false">
+                        Courses</a><div class="dropdown-menu"><div class="dropdown"><a class="dropdown-item dropdown-toggle text-white display-4" href="index.php#services3-3" data-toggle="dropdown-submenu" aria-expanded="false">Basic Engineering Mathematics</a><div class="dropdown-menu dropdown-submenu"><a class="dropdown-item text-white display-4" href="sub-Algebra.php">Algebra</a><a class="dropdown-item text-white display-4" href="index.php#services3-3">Advanced Algebra</a><a class="dropdown-item text-white display-4" href="index.php#testimonials1-6">Trigonometry</a><a class="dropdown-item text-white display-4" href="index.php#services3-3">Analytic Geometry</a><a class="dropdown-item text-white display-4" href="index.php#services3-3">Solid Mensuration</a></div></div><div class="dropdown"><a class="dropdown-item text-white dropdown-toggle display-4" href="index.php#services3-3" data-toggle="dropdown-submenu" aria-expanded="false">Calculus<br></a><div class="dropdown-menu dropdown-submenu"><a class="dropdown-item text-white display-4" href="index.php#services3-3">Differential Calculus</a><a class="dropdown-item text-white display-4" href="index.php#services3-3" aria-expanded="true">Integral Calculus</a><a class="dropdown-item text-white display-4" href="index.php#services3-3" aria-expanded="true">Differential Equations</a><a class="dropdown-item text-white display-4" href="index.php#services3-3" aria-expanded="true">Advanced Mathematics</a></div></div><a class="dropdown-item text-white display-4" href="index.php#services3-3">Engineering Science<br></a><a class="dropdown-item text-white display-4" href="index.php#services3-3">Physics<br></a><a class="dropdown-item text-white display-4" href="index.php#services3-3">All Courses<br></a></div></li><li class="nav-item">
+                    <a class="nav-link link text-white display-4" href="index.php#testimonials1-6">Meet Our Team<br></a>
+                </li><li class="nav-item"><a class="nav-link link text-white display-4" href="Contact-Us.php">Contact Us
                     </a></li></ul>
             
         </div>
     </nav>
 </section>
 
-<section class="engine"><a href="https://mobirise.info/p">website templates free download</a></section><section class="mbr-section form1 cid-rYcaYIyqM5" id="form1-19">
+<section class="engine"><a href="https://mobirise.info/v">html templates</a></section><section class="mbr-section form1 cid-rYcaYIyqM5" id="form1-19">
 
     
 
@@ -76,7 +76,7 @@
         <div class="row justify-content-center">
             <div class="media-container-column col-lg-8" data-form-type="formoid">
                 <!---Formbuilder Form--->
-                <form action="https://mobirise.com/" method="POST" class="mbr-form form-with-styler" data-form-title="Mobirise Form"><input type="hidden" name="email" data-form-email="true" value="YComsPYdU3d1u2oiNtQm8uV4lGeG+B8zSrzYf6APoolUvkHGWwgjYW7z4gYFFD9XEhR0vOyGOpONXJ/AdgXWx6WEgcSIHR2bHvWGj4d9Qn52ieLeou31Qwaxh9jpAU7q">
+                <form action="https://mobirise.com/" method="POST" class="mbr-form form-with-styler" data-form-title="Mobirise Form"><input type="hidden" name="email" data-form-email="true" value="GOMg0saEPPqV/uzy2eJ5fFY7e2/CNLvleSgEyatEcdLcBta2vS3Uxx+QJPBXrzwH9JJbQIeOehvBm9WuYhhn+VlO/G7/rGj5CyS9f/Yj+xMpHkrMVQTS6+W1Ug/V22a2">
                     <div class="row">
                         <div hidden="hidden" data-form-alert="" class="alert alert-success col-12">Thanks for filling out the form!</div>
                         <div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12">
