@@ -845,16 +845,16 @@ section.lazy-placeholder:after {
 .cid-rY3ux7smxv {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #2e2e2e;
+  background-color: #073b4c;
 }
 .cid-rY414x3gx3 .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #073b4c;
   transition: none;
   min-height: 77px;
 }
 .cid-rY414x3gx3 .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #073b4c;
 }
 .cid-rY414x3gx3 a {
   font-style: normal;
@@ -945,7 +945,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-rY414x3gx3 .dropdown .dropdown-menu {
-  background: #333333;
+  background: #073b4c;
   visibility: hidden;
   display: block;
   position: absolute;
@@ -1287,16 +1287,16 @@ section.lazy-placeholder:after {
 .cid-rY3ux7smxv {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #2e2e2e;
+  background-color: #073b4c;
 }
 .cid-rY414x3gx3 .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #073b4c;
   transition: none;
   min-height: 77px;
 }
 .cid-rY414x3gx3 .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #073b4c;
 }
 .cid-rY414x3gx3 a {
   font-style: normal;
@@ -1387,7 +1387,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-rY414x3gx3 .dropdown .dropdown-menu {
-  background: #333333;
+  background: #073b4c;
   visibility: hidden;
   display: block;
   position: absolute;
@@ -1716,9 +1716,9 @@ section.lazy-placeholder:after {
   font-weight: 300;
 }
 .cid-rYcjAKeR7F .step {
-  width: 36px;
-  height: 36px;
-  font-size: 18px;
+  width: 32px;
+  height: 32px;
+  font-size: 16px;
   border-radius: 50%;
   border: 2px solid #55b4d4;
   color: #ffffff;
@@ -1727,30 +1727,31 @@ section.lazy-placeholder:after {
   position: relative;
 }
 .cid-rYcjAKeR7F .separline:after {
-  top: 40px;
-  left: 16px;
+  top: 36px;
+  left: 14px;
   position: absolute;
   content: "";
   width: 2px;
-  height: calc(100% - (18px + 4px) * 2);
+  height: calc(100% - (16px + 4px) * 2);
   background-color: #55b4d4;
 }
 .cid-rYcjAKeR7F .mbr-step-text {
   color: #767676;
+  text-align: left;
 }
 .cid-rY3ux7smxv {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #2e2e2e;
+  background-color: #073b4c;
 }
 .cid-rY414x3gx3 .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #073b4c;
   transition: none;
   min-height: 77px;
 }
 .cid-rY414x3gx3 .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #073b4c;
 }
 .cid-rY414x3gx3 a {
   font-style: normal;
@@ -1841,7 +1842,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-rY414x3gx3 .dropdown .dropdown-menu {
-  background: #333333;
+  background: #073b4c;
   visibility: hidden;
   display: block;
   position: absolute;
@@ -2161,12 +2162,12 @@ section.lazy-placeholder:after {
 }
 .cid-rY3xiTXI2t .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #073b4c;
   transition: none;
   min-height: 77px;
 }
 .cid-rY3xiTXI2t .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #073b4c;
 }
 .cid-rY3xiTXI2t a {
   font-style: normal;
@@ -2257,7 +2258,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-rY3xiTXI2t .dropdown .dropdown-menu {
-  background: #333333;
+  background: #073b4c;
   visibility: hidden;
   display: block;
   position: absolute;
@@ -2971,10 +2972,15 @@ section.lazy-placeholder:after {
     margin-left: 0 !important;
   }
 }
+.cid-rYu6NHcUSk {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
 .cid-rY3ux7smxv {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #2e2e2e;
+  background-color: #073b4c;
 }
 .cid-rYiAWxTgCo {
   padding-top: 120px;
@@ -2986,12 +2992,12 @@ section.lazy-placeholder:after {
 }
 .cid-rYiAWybUHE .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #073b4c;
   transition: none;
   min-height: 77px;
 }
 .cid-rYiAWybUHE .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #073b4c;
 }
 .cid-rYiAWybUHE a {
   font-style: normal;
@@ -3082,7 +3088,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-rYiAWybUHE .dropdown .dropdown-menu {
-  background: #333333;
+  background: #073b4c;
   visibility: hidden;
   display: block;
   position: absolute;
@@ -3533,5 +3539,5 @@ section.lazy-placeholder:after {
 .cid-rYiAWDdxWs {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #2e2e2e;
+  background-color: #073b4c;
 }
